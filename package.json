@@ -1,0 +1,24 @@
+{
+  "name": "w4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "famousPeople.js",
+  "dependencies": {
+    "knex": "^0.14.4",
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyaah/Building-queries-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyaah/Building-queries-/issues"
+  },
+  "homepage": "https://github.com/cyaah/Building-queries-#readme"
+}
